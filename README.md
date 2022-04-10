@@ -1,4 +1,4 @@
-# Todoist-discord
+# Todoist-discord - not up to date so won't work
 Simple rich presence file for todoist and discord
 
 Requirements
